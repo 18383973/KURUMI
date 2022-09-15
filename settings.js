@@ -1,7 +1,7 @@
 //════════════════════════════//
-//Recode By ムハンマド・アルフィン ・神の導き
-//© 2022 Xeon Bot Inc. 時崎 狂三
-//Thank you to Lord Buddha, Family and Myself
+//Recode By Vincenttt ¿・VinnXD
+//© 2022 VinnXD Bot Inc. Vincenttt
+//Thank you to All , Family and Myself
 //════════════════════════════//
 
 const fs = require('fs')
@@ -26,7 +26,7 @@ global.autoRecord = true //perekaman otomatis (true to on, false to off)
 global.available = true //tanda online (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("./Vincenttt/theme/Cheems-bot.mp4") //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -37,32 +37,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6289699565795'] //ur owner number
-global.ownername = "アルフィン" //ur owner name
-global.ytname = "アルフィン" //ur yt chanel name
-global.socialm = "GitHub: AlfinQwe" //ur github or insta name
+global.vcardowner = ['6285878258447'] //ur owner number
+global.ownername = "Vincettt" //ur owner name
+global.ytname = "Vincenttt XD" //ur yt chanel name
+global.socialm = "GitHub: VinnXD" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bomdy 
-global.owner = ['6289699565795']
-global.ownertag = '6289699565795' //ur tag number
-global.botname = '時崎 狂三' //ur bot name
+global.owner = ['6285878258447']
+global.ownertag = '6285878258447' //ur tag number
+global.botname = 'VinnXD`' //ur bot name
 global.linkz = "https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg" //ur website to be displayed
 global.botscript = 'https://github.com/AlfinQwe/KURUMI.git' //script link
-global.reactmoji = "🥵" //ur menu react emoji
+global.reactmoji = "😎" //ur menu react emoji
 global.themeemoji = "🥵" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
-global.author = "ムハンマド・アルフィン ・神の導き" //ur sticker watermark author
+global.author = "VinnXD`・Vincettt ¿" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./Vincenttt/theme/cheemspic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./Vincenttt/theme/cheemspic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./Vincenttt/theme/cheemspic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./Vincenttt/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6289699565795'] //ur premium numbers
+global.premium = ['6285878258447'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
